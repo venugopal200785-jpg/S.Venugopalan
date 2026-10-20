@@ -1,0 +1,6 @@
+{
+  "name": "Blood Donation & Compatibility System",
+  "description": "Comprehensive blood donation and hospital compatibility matching web application with donor registration, hospital requests, and compatibility search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
